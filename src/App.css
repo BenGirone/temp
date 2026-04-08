@@ -37,6 +37,22 @@
   padding: 2em;
 }
 
+.important-action {
+  font-size: 1em;
+  font-weight: 600;
+  padding: 0.6em 1.2em;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.important-action:hover {
+  border-color: #646cff;
+}
+
 .read-the-docs {
   color: #888;
 }
