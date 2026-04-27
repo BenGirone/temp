@@ -27,7 +27,7 @@ function App() {
       </div>
       <button className="important-action">IGNORE THIS BUTTON</button>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn more about stuff
       </p>
     </>
   )
